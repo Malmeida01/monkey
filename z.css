@@ -1,0 +1,25 @@
+body {
+	background-image: url(images/kong.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#heading {
+	border-style: double;
+	border-color: black;
+	border-width: 10px;
+	text-align: center;
+	background-image: url(images/monkeys.gif), url(images/monkeys.gif);
+	background-repeat: no-repeat, no-repeat;
+	background-position: top left, top right;
+	font-style: oblique;
+	margin-left: 180px;
+	margin-right: 180px;
+	margin-top: 60px;
+	color: black;
+	padding-bottom: 50px;
+}
+#heading h1 {
+	font-weight: bold;
+	padding-top: 40px;
+	font-size: 50px;
+}
